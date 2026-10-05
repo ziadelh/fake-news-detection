@@ -2,7 +2,7 @@
 
 A text classification project that labels news articles as **real** or **fake**, and compares two approaches: a statistical model on TF-IDF features and an embedding-based model on Word2Vec. Built in Python with scikit-learn, NLTK and gensim.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadelh/natural-language-processing/blob/main/fake_news_detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziadelh/fake-news-detection/blob/main/fake_news_detection.ipynb)
 
 <img src="docs/model-comparison.png" alt="Model comparison" width="70%">
 
